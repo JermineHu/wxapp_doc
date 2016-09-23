@@ -4,15 +4,15 @@
 
 ### 开发文档
 
-http://wxopen.notedown.cn/
+http://wxopen.vdo.space/
 
-介绍 http://wxopen.notedown.cn/introduction
+介绍 http://wxopen.vdo.space/introduction
 
-设计 http://wxopen.notedown.cn/design
+设计 http://wxopen.vdo.space/design
 
-运营 http://wxopen.notedown.cn/product
+运营 http://wxopen.vdo.space/product
 
-开发 http://wxopen.notedown.cn/api
+开发 http://wxopen.vdo.space/api
 
 
 以上地址本人分享出来,仅供学习使用,IT民工辛苦
