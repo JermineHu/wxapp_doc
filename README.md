@@ -5,19 +5,19 @@
  ![weixin](./img/vdo.png)
 
 
-官方地址(目前内测用户才能查看文档) https://mp.weixin.qq.com/wxopen/wawiki
+官方地址(目前内测用户才能查看文档) https://mp.weixin.qq.com/wxapp/wawiki
 
 ### 开发文档
 
-http://wxopen.vdo.space/
+http://wxapp.daoapp.io/
 
-介绍 http://wxopen.vdo.space/introduction
+介绍 http://wxapp.daoapp.io/introduction
 
-设计 http://wxopen.vdo.space/design
+设计 http://wxapp.daoapp.io/design
 
-运营 http://wxopen.vdo.space/product
+运营 http://wxapp.daoapp.io/product
 
-开发 http://wxopen.vdo.space/api
+开发 http://wxapp.daoapp.io/api
 
 
 以上地址本人分享出来,仅供学习使用,文档会持续更新
