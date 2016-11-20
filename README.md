@@ -9,15 +9,15 @@
 
 ### 开发文档
 
-http://wxapp.daoapp.io/
+http://wxapp.witdor.com/
 
-介绍 http://wxapp.daoapp.io/introduction
+介绍 http://wxapp.witdor.com/introduction
 
-设计 http://wxapp.daoapp.io/design
+设计 http://wxapp.witdor.com/design
 
-运营 http://wxapp.daoapp.io/product
+运营 http://wxapp.witdor.com/product
 
-开发 http://wxapp.daoapp.io/api
+开发http://wxapp.witdor.com/api
 
 
 以上地址本人分享出来,仅供学习使用,文档会持续更新
